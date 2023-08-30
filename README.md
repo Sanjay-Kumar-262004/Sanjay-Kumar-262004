@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-kumar-262004&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-kumar-262004" /> </p>
 
+- 🧑🏻‍🎓 Pre Final Year Undergrad @ SRMIST,KTR Campus
+
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/Sanjay-Kumar-262004/Netflix-Clone)
 
 - 🌱 I’m currently learning **Bootstrap Tailwind Css**
