@@ -7,7 +7,7 @@
 
 - 🧑🏻‍🎓 Pre Final Year Undergrad @ SRMIST,KTR Campus
 
-- 🔭 I’m currently working on [Netflix Clone](https://github.com/Sanjay-Kumar-262004/Netflix-Clone)
+- 🔭 I’m currently working on [Airbnb](https://github.com/Sanjay-Kumar-262004/Airbnb)
 
 - 🌱 I’m currently learning **Bootstrap Tailwind Css**
 
