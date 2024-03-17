@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Homely Hub](https://github.com/Sanjay-Kumar-262004/Homely-Hub)
 
-- 🌱 I’m currently learning **Bootstrap Tailwind Css**
+- 🌱 I’m currently learning **Bootstrap Tailwind Css React.js**
 
 - 💬 Ask me about **Html,Css,Js**
 
