@@ -7,7 +7,7 @@
 
 - 🧑🏻‍🎓 Pre Final Year Undergrad @ SRMIST,KTR Campus
 
-- 🔭 I’m currently working on [Homely Hub](https://github.com/Sanjay-Kumar-262004/Homely-Hub)
+- 🔭 I’m currently working on [AirStay](https://github.com/Sanjay-Kumar-262004/AirStay)
 
 - 🌱 I’m currently learning **Bootstrap Tailwind Css React.js**
 
