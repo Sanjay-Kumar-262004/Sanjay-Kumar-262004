@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-kumar-262004&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-kumar-262004" /> </p>
 
-- 🧑🏻‍🎓Final Year Undergrad @ SRMIST,KTR Campus
+- 🧑🏻‍🎓B.Tech ECE Graduate from SRMIST,KTR Campus
 
 - 🔭 I’m currently working on [My_Portfolio](https://github.com/Sanjay-Kumar-262004/My_Portfolio)
 
